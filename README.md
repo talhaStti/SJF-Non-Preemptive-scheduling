@@ -17,7 +17,7 @@ Shortest Job First (SJF) is a CPU scheduling algorithm where the process with th
 ## Files
 
 - `sjf_non_preemptive.c`: Contains the C code for the SJF Non-Preemptive scheduling algorithm.
-- `output.txt`: Sample output of the program.
+- `output.exe`: Sample output of the program.
 
 ## How to Compile and Run
 
